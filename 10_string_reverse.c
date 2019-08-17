@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	char str[20]="Raja Software Labs";
+	char str[20]="vpkbiet baramati";
 	int space[5]={0,0,0,0,0},i=0,k=0,j;
 	while(str[i]!='\0')
 	{
